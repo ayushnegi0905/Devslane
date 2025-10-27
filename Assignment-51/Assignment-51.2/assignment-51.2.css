@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+.b-color{
+    background:green;
+}
+.border_div{
+    border:4px solid black;
+}
+.height{
+    height:99vh;
+}
+.width{
+    width:99vw;
+}
+.border_h1{
+    border:2px dotted black; 
+}
+.padding{
+    padding:10px;
+}
+.margin{
+    margin:20px auto 0 auto;
+}
+.display{
+    display:table;
+}
